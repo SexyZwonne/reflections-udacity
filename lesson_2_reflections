@@ -1,0 +1,10 @@
+What happens when you initialize a repository? Why do you need to do it?
+	- You get a new folder called .git which contains the meta data for the 
+	newly created repository. I need to do it to begin keeping track of my
+	files!
+	
+How is the staging area different from the working directory and the 
+repository? What value do you think it offers?
+	- It's a container for the files we WANT to commit. The working direc-
+	tory might have some other files that we don't want to include in our
+	commit.
