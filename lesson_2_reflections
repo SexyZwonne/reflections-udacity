@@ -26,3 +26,10 @@ in the diagram the way we do?
 	-The result is the union of all the files (and changes made to them)
 	on both branches. We represent it that way so we can see it more
 	clearly.
+	
+What are the pros and cons of Git’s automatic merging vs. always doing 
+merges manually?
+	- Automatic merging can save time, but it's not perfect, because when
+	there are conflicts, automatic merging does not work well, it would
+	have to take a guess as to what it is that needs merging. Manual
+	merging is slower, but it gives the user power in solving conflicts.
