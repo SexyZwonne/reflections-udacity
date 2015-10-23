@@ -20,3 +20,9 @@ history organized? How would branches help?
 	
 How do the diagrams help you visualize the branch structure?
 	- More clearly, obviously...
+	
+What is the result of merging two branches together? Why do we represent it 
+in the diagram the way we do?
+	-The result is the union of all the files (and changes made to them)
+	on both branches. We represent it that way so we can see it more
+	clearly.
