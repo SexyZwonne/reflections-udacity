@@ -1,3 +1,11 @@
-Would you rather want to create a remote repository rather than keeping all your work local?
-  - Well, I don't have any preferences so far, I think both are ok, but a remote repository 
-  can probably be more safe when working with other people...
+Would you rather want to create a remote repository rather than keeping 
+all your work local?
+	- Well, I don't have any preferences so far, I think both are ok, but a 
+  remote repository can probably be more safe when working with other 
+  people...
+  
+ Why might you want to always pull changes manually rather than having Git 
+ automatically stay up-to-date with your remote repository?
+	- Because if I work in a large team, and they push thir changes often,
+	it would be resource-consuming to automatically pull changes all the 
+	time...
