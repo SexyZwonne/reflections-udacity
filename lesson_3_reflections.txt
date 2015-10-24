@@ -9,3 +9,7 @@ all your work local?
 	- Because if I work in a large team, and they push thir changes often,
 	it would be resource-consuming to automatically pull changes all the 
 	time...
+	
+Describe the differences between forks, clones, and branches. When would you 
+use one instead of another?
+	- I don't wanna...
